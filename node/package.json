@@ -1,0 +1,22 @@
+{
+  "name": "extract-urls-from-data-structure-tool",
+  "version": "0.0.1",
+  "description": "Extract URLs from data structure, parse into a command snippet string to be placed on std.out.",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aallbrig/extract-urls-from-data-structure-tool.git"
+  },
+  "keywords": [
+    "tool"
+  ],
+  "author": "Andrew Allbright",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aallbrig/extract-urls-from-data-structure-tool/issues"
+  },
+  "homepage": "https://github.com/aallbrig/extract-urls-from-data-structure-tool#readme"
+}
